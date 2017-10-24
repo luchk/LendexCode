@@ -1,0 +1,26 @@
+/* line 1, watch-video.less */
+.watch-video {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+/* line 4, watch-video.less */
+.watch-video h2,
+.watch-video p {
+  text-align: center;
+}
+/* line 7, watch-video.less */
+.watch-video .one-third {
+  padding-top: 2.5em;
+}
+/* line 9, watch-video.less */
+.watch-video .one-third i {
+  color: #0199e6;
+  padding-right: 20px;
+  padding-left: 40px;
+}
+/* line 14, watch-video.less */
+.watch-video .one-third h6 {
+  text-align: left;
+  font-weight: 500;
+  display: inline;
+}

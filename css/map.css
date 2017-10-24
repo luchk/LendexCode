@@ -1,0 +1,9 @@
+/* line 1, map.less */
+.map {
+  background-color: #F7F8FA;
+}
+/* line 3, map.less */
+.map iframe {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}

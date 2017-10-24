@@ -1,0 +1,22 @@
+/* line 1, features.less */
+.features {
+  padding-top: 5em;
+}
+/* line 3, features.less */
+.features h2,
+.features h5,
+.features p {
+  text-align: center;
+}
+/* line 6, features.less */
+.features .i {
+  color: #0199e6;
+  text-align: center;
+  padding-bottom: 2em;
+  padding-top: 4em;
+}
+/* line 13, features.less */
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}

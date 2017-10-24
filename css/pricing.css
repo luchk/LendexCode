@@ -1,0 +1,82 @@
+/* line 1, pricing.less */
+.pricing {
+  padding-top: 6em;
+  margin-top: 3em;
+  background-color: #f7f8fa;
+  padding-bottom: 5em;
+}
+/* line 5, pricing.less */
+.pricing h2,
+.pricing p {
+  text-align: center;
+}
+/* line 9, pricing.less */
+.pricing .plan .plan-header {
+  padding-top: 1em;
+  padding-bottom: 0.1em;
+  color: white;
+  text-align: center;
+  background-color: #323232;
+}
+/* line 15, pricing.less */
+.pricing .plan .plan-header h5 {
+  margin-bottom: 0;
+  padding-bottom: 0.2em;
+}
+/* line 19, pricing.less */
+.pricing .plan .plan-header h6 {
+  padding-top: 0;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+/* line 25, pricing.less */
+.pricing .plan:hover {
+  /*
+      a {
+        background-color: #0199e6;
+        color: white;
+      }
+      */
+}
+/* line 26, pricing.less */
+.pricing .plan:hover .plan-header {
+  background-color: #0199e6;
+  -webkit-transition: background-color 0.2s;
+  transition: background-color 0.2s;
+}
+/* line 29, pricing.less */
+.pricing .plan:hover .plan-header b {
+  color: white;
+  -webkit-transition: color .2s;
+  transition: color .2s;
+}
+/* line 42, pricing.less */
+.pricing table {
+  width: 100%;
+  border: 1px solid #e6e6e6;
+}
+/* line 46, pricing.less */
+.pricing table tr td {
+  padding-left: 20px;
+  font-size: 16px;
+}
+/* line 49, pricing.less */
+.pricing table tr td b {
+  color: inherit;
+}
+/* line 52, pricing.less */
+.pricing table tr td a {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+/* line 56, pricing.less */
+.pricing table tr td:nth-child(2) {
+  text-align: right;
+  padding-right: 30px;
+}
+@media (max-width: 820px) {
+  /* line 67, pricing.less */
+  .pricing .one-third {
+    width: 100%;
+  }
+}

@@ -1,0 +1,22 @@
+/* line 1, describe.less */
+.describe-more {
+  background-color: #f7f8fa;
+  margin-top: 30px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+/* line 6, describe.less */
+.describe-more img {
+  width: 100%;
+}
+/* line 9, describe.less */
+.describe-more h3 {
+  letter-spacing: normal;
+}
+/* line 14, describe.less */
+#gip-details,
+#vb-details {
+  padding-left: 40px;
+  font-weight: 200;
+  letter-spacing: 1px;
+}

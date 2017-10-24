@@ -1,0 +1,21 @@
+/* line 1, product-screenshots.less */
+.product-screenshots {
+  background-color: #f7f8fa;
+  padding-top: 5em;
+}
+/* line 4, product-screenshots.less */
+.product-screenshots h2,
+.product-screenshots p {
+  text-align: center;
+}
+/* line 7, product-screenshots.less */
+.product-screenshots .slider {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* line 12, product-screenshots.less */
+.product-screenshots .slider .owl-dot {
+  color: blue !important;
+}

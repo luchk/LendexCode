@@ -1,0 +1,29 @@
+/* line 1, footer.less */
+.footer {
+  background-color: #f7f8fa;
+  padding: 3em 0;
+}
+/* line 4, footer.less */
+.footer h1,
+.footer p,
+.footer h5 {
+  text-align: center;
+}
+/* line 7, footer.less */
+.footer p {
+  letter-spacing: 1px;
+  font-weight: 100;
+  margin-bottom: 0;
+}
+/* line 12, footer.less */
+.footer a {
+  text-decoration: none;
+  color: gray;
+  padding: 2px;
+  background-color: #F7F8FA;
+}
+/* line 17, footer.less */
+.footer a:hover {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: #0199E6;
+}

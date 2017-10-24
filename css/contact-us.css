@@ -1,0 +1,22 @@
+/* line 1, contact-us.less */
+.contact-us {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+/* line 4, contact-us.less */
+.contact-us h5,
+.contact-us h6 {
+  text-align: center;
+}
+/* line 7, contact-us.less */
+.contact-us a {
+  text-decoration: none;
+}
+/* line 10, contact-us.less */
+.contact-us h6 {
+  color: #0199e6;
+}
+/* line 12, contact-us.less */
+.contact-us h6 i {
+  padding-right: 1em;
+}

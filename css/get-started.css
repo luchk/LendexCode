@@ -1,0 +1,29 @@
+/* line 1, get-started.less */
+.get-started {
+  background: url(../img/gs-bg.png) no-repeat;
+  background-size: 100%;
+  background-color: black;
+}
+/* line 5, get-started.less */
+.get-started h5 {
+  padding-top: 3.5em;
+  margin-bottom: 0;
+}
+/* line 9, get-started.less */
+.get-started h3,
+.get-started h5 {
+  text-align: center;
+  color: white;
+}
+/* line 13, get-started.less */
+.get-started h3 {
+  top: -100px;
+}
+/* line 16, get-started.less */
+.get-started .a {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1em;
+  padding-bottom: 4em;
+}

@@ -1,0 +1,36 @@
+/* line 1, explore.less */
+.explore {
+  padding-top: 120px;
+}
+/* line 3, explore.less */
+.explore img {
+  height: auto;
+  width: 100%;
+}
+/* line 7, explore.less */
+.explore h3 {
+  letter-spacing: 1px;
+}
+/* line 11, explore.less */
+.underline {
+  width: 68px;
+  height: 1px;
+  background-color: #0199e6;
+  margin-bottom: 1em;
+}
+/* line 17, explore.less */
+.inline {
+  display: inline-block;
+  float: left;
+}
+/* line 21, explore.less */
+.fa-stop {
+  color: #0199e6;
+}
+/* line 24, explore.less */
+#etc-details,
+#qd-details {
+  padding-left: 40px;
+  font-weight: 200;
+  letter-spacing: 1px;
+}

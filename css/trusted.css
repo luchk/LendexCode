@@ -1,0 +1,122 @@
+/* line 1, trusted.less */
+.trusted {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+/* line 4, trusted.less */
+.trusted h2,
+.trusted p {
+  text-align: center;
+}
+/* line 7, trusted.less */
+.trusted .partners {
+  padding-top: 2em;
+}
+/* line 9, trusted.less */
+.trusted .partners img {
+  width: 80%;
+  margin: auto;
+}
+/* line 14, trusted.less */
+.trusted .feedback {
+  width: 100%;
+  margin-top: 3.5em;
+  padding-top: 1em;
+  padding-bottom: .25em;
+  background-color: #f7f8fa;
+}
+/* line 20, trusted.less */
+.trusted .feedback .t-top-icon {
+  position: relative;
+  left: 44%;
+  top: -35px;
+  color: white;
+  background-color: #0098ed;
+  border: 3px solid white;
+}
+/* line 28, trusted.less */
+.trusted .feedback p {
+  width: 80%;
+  margin: auto;
+}
+/* line 33, trusted.less */
+.trusted h6 {
+  text-align: center;
+  padding-top: 1.5em;
+  letter-spacing: 1px;
+  font-weight: 500;
+  color: #0098ed;
+}
+/* line 39, trusted.less */
+.trusted h6::after {
+  display: block;
+  content: "AbZ Network";
+  color: #989898;
+  letter-spacing: normal;
+  font-weight: 200;
+}
+/* line 49, trusted.less */
+.triangle {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  background-color: #f7f8fa;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 10px;
+  left: 44%;
+}
+@media (max-width: 550px) {
+  /* line 61, trusted.less */
+  .trusted .partners {
+    padding-top: 2em;
+  }
+  /* line 63, trusted.less */
+  .trusted .partners img {
+    width: 35%;
+    display: block;
+    padding-top: 1em;
+    padding-bottom: 1.2em;
+    margin: auto;
+  }
+  /* line 72, trusted.less */
+  .triangle {
+    left: 46%;
+  }
+}
+@media (max-width: 750px) {
+  /* line 79, trusted.less */
+  .trusted .feedback .t-top-icon {
+    left: 35%;
+  }
+}
+@media (max-width: 850px) {
+  /* line 88, trusted.less */
+  .trusted .feedback .t-top-icon {
+    left: 37%;
+  }
+}
+@media (max-width: 950px) {
+  /* line 97, trusted.less */
+  .trusted .feedback .t-top-icon {
+    left: 40%;
+  }
+}
+@media (max-width: 950px) {
+  /* line 106, trusted.less */
+  .trusted .feedback .t-top-icon {
+    left: 40%;
+  }
+}
+@media (max-width: 950px) {
+  /* line 115, trusted.less */
+  .trusted .feedback .t-top-icon {
+    left: 40%;
+  }
+}
+@media (max-width: 1050px) {
+  /* line 124, trusted.less */
+  .trusted .feedback .t-top-icon {
+    left: 42%;
+  }
+}
